@@ -16,6 +16,7 @@ yay -S playonlinux samba ttf-ms-fonts winetricks
 Unduh `wine.tar.xz` dari halaman [Releases](https://github.com/niizam/office365-pol/releases)
 Kemudian ekstrak `wine.tar.xz` menggunakan perintah ini
 ```bash
+mkdir -p /home/$USER/.PlayOnLinux
 tar -C /home/$USER/.PlayOnLinux -xvf wine.tar.xz
 ```
 
