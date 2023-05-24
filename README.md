@@ -49,6 +49,6 @@ Selanjutnya akan muncul jendela konfigurasi wine, ubah versi Windows 8 ke Window
 
 
 Proses unduhnya mungkin akan memakan waktu yang lama. Jika sudah selesai menginstal, Office365 sudah dapat dijalankan.
-### ![image](https://github.com/niizam/office365-pol/assets/45286708/a6590b16-4b79-4f99-af59-160b5356ba33)
+### ![image](https://github.com/niizam/office365-pol/assets/45286708/be6d1247-120b-4d8b-bace-4abb5965e6e4)
 
 
